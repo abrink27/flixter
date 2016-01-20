@@ -12,6 +12,7 @@ gem 'rails', '4.0.1'
 gem 'pg'
 
 # Use SCSS for stylesheets
+gem 'simple_form'
 
 
 # Use Uglifier as compressor for JavaScript assets
